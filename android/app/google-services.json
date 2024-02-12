@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "755736739149",
+    "project_id": "todoappsoham-e31ee",
+    "storage_bucket": "todoappsoham-e31ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755736739149:android:d9cacc1742d3ca1662cb04",
+        "android_client_info": {
+          "package_name": "com.example.saathi_iitb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Hv0f5AQv4AWpvfVu8R4-dLQ96OCchKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
